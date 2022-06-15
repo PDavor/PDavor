@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript primitive data types](https://dev.to/dawx/javascript-primitive-data-types-5emj)
+- [NextJS authentication in 5 minutes](https://dev.to/dawx/nextjs-authentication-in-5-minutes-4dn6)
+- [React authentication with Firebase](https://dev.to/dawx/react-authentication-with-firebase-3ma4)
+- [How to use MySql database on github.io](https://dev.to/dawx/how-to-use-mysql-database-on-github-io-4kbd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
